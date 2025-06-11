@@ -3,7 +3,7 @@
     <h1 class="Titulo">
       Estufa Hidropônica Indoor
       <Sol/>
-    
+      <Torneira/>
     </h1>
 
   </header>
