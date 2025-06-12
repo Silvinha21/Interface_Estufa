@@ -1,5 +1,8 @@
 <template>
-<cabecalho/>
+    <header>
+        <cabecalho/>
+
+    </header>
 </template>
 
 <script setup>

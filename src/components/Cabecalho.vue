@@ -1,12 +1,14 @@
 <template>
-  <header class="Ocabecalho">
-    <h1 class="Titulo">
-      Estufa Hidropônica Indoor
-      <Sol/>
-      <Torneira/>
-    </h1>
+  <div class="Nome">
+  <h1 class="Titulo">
+    Estufa Hidropônica Indoor
+  </h1>
+  
+  </div>
+  <div>
+  <Sol/>
 
-  </header>
+  </div>
 
 </template>
 
