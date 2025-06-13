@@ -66,7 +66,7 @@ function alternarEstado() {
 }
 
 .ligado {
-  color: green;
+  color: rgb(16, 208, 16);
 }
 
 .desligado {
